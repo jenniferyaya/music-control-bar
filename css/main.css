@@ -77,10 +77,16 @@ body {
 
 .time-lapsed {
   font-size: .7rem;
+  position: absolute;
+  left: 10px;
+  top: 22px;
 }
 
 .time-total {
   font-size: .7rem;
+  position: absolute;
+  left: 340px;
+  top: 22px;
 }
 
 .controls {
@@ -91,22 +97,23 @@ body {
   line-height: 16px;
   list-style-type: none;
 
-  position: absolute;
-  top: 10px;
+  position: relative;
 }
 
 .control-shuffle {
-
+position: absolute;
+bottom: 442px;
+left: 10px;
 }
 
 .control-list {
   position: absolute;
-  left: 295px;
-  top: 0px;
+  left: 344px;
+  bottom: 442px;
 }
 
 .control-heart {
   position: absolute;
-  left: 255px;
-  top: 0;
+  left: 312px;
+  bottom: 438px;
 }
