@@ -108,9 +108,9 @@ body {
 }
 
 .control-shuffle {
-position: absolute;
-bottom: 442px;
-left: 10px;
+  position: absolute;
+  bottom: 442px;
+  left: 10px;
 }
 
 .control-list {
