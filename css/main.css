@@ -52,7 +52,9 @@ body {
 }
 
 .time {
-
+  position: relative;
+  left: 10px;
+  bottom: 0px;
 }
 
 .time-bar {
@@ -63,6 +65,7 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
+  width: 75%;
 }
 
 /*
@@ -83,15 +86,14 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  left: 10px;
-  top: 22px;
+  bottom: 15px;
+  left: 50px;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
-  left: 340px;
-  top: 22px;
+  bottom: 15px;
 }
 
 .controls {
@@ -113,12 +115,13 @@ left: 10px;
 
 .control-list {
   position: absolute;
-  left: 344px;
-  bottom: 442px;
+  left: 350px;
+  bottom: 33px;
 }
 
 .control-heart {
+  font-size: 1.5rem;
   position: absolute;
-  left: 312px;
-  bottom: 438px;
+  left: 320px;
+  bottom: 30px;
 }
