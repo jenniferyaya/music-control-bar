@@ -90,6 +90,9 @@ body {
   font-size: 1.8rem;
   line-height: 16px;
   list-style-type: none;
+
+  position: absolute;
+  top: 10px;
 }
 
 .control-shuffle {
