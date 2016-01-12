@@ -100,9 +100,13 @@ body {
 }
 
 .control-list {
-
+  position: absolute;
+  left: 295px;
+  top: 0px;
 }
 
 .control-heart {
-
+  position: absolute;
+  left: 255px;
+  top: 0;
 }
