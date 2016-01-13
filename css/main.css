@@ -120,19 +120,19 @@ body {
 
 .control-shuffle {
   position: absolute;
-  bottom: 442px;
-  left: 10px;
+  bottom: 35px;
+  left: 70px;
 }
 
 .control-list {
   position: absolute;
-  left: 350px;
-  bottom: 33px;
+  right: 10px;
+  bottom: 35px;
 }
 
 .control-heart {
   font-size: 1.5rem;
   position: absolute;
-  left: 320px;
+  right: 30px;
   bottom: 30px;
 }
