@@ -36,12 +36,18 @@ body {
   font-size: 1rem;
   font-weight: normal;
   margin: 0;
+
+  position: relative;
+  left: 20px;
 }
 
 .band {
   font-size: .8rem;
   margin: 0;
   color: #666;
+
+  position: relative;
+  left: 20px;
 }
 
 .album {
@@ -98,6 +104,7 @@ body {
   font-size: .7rem;
   position: absolute;
   bottom: 15px;
+  right: 30px;
 }
 
 .controls {
